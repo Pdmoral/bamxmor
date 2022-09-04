@@ -1,1 +1,1 @@
-# BAMX_back### Inicializar proyecto```bash npm i nodemon eslint eslint-config-prettier eslint-plugin-prettier prettier -D ```  ### Instalar todo```bashnpm install ``` ## Iniciar server```bash npm run start. ```
+# BAMX_back### Inicializar proyecto```bash npm i nodemon eslint eslint-config-prettier eslint-plugin-prettier prettier -D ```  ### Instalar todo```bashnpm install ``` ## Iniciar servidor```bash npm run start. ```
